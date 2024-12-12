@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1727186099 source:c:\users\rtech\desktop\utn\carrera\lab ii\cuevita\main.cpp
+	<iostream>
+	"ClaseFecha.h"
+	"ClasePersona.h"
+	"MenuPeliculas.h"
+	"MenuClientes.h"
+	"MenuVentas.h"
+
+1727137806 c:\users\rtech\desktop\utn\carrera\lab ii\cuevita\menupeliculas.h
+
+1727997457 c:\users\rtech\desktop\utn\carrera\lab ii\cuevita\menuclientes.h
+
+1727144014 c:\users\rtech\desktop\utn\carrera\lab ii\cuevita\menuventas.h
+
+1727270526 c:\users\rtech\desktop\utn\carrera\lab ii\cuevita\clasefecha.h
+
+1727997286 c:\users\rtech\desktop\utn\carrera\lab ii\cuevita\clasepersona.h
+
+1730919640 source:c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\main.cpp
+	<iostream>
+	<string.h>
+	"FuncionesGlobales.h"
+	"ClaseFecha.h"
+	"ClasePelicula.h"
+	"ClasePersona.h"
+	"ClaseCliente.h"
+	"ClaseVendedor.h"
+	"ClaseVentas.h"
+	"ClasePersonaArchi.h"
+	"ClasePeliculaArchi.h"
+	"ClaseVentasArchi.h"
+	"ClaseVendedorArchi.h"
+	"MenuPeliculas.h"
+	"MenuClientes.h"
+	"MenuVentas.h"
+	"MenuConfiguracion.h"
+	"MenuReportes.h"
+
+1730165193 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasefecha.h
+
+1730914630 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasepersona.h
+
+1730921643 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\menupeliculas.h
+
+1730921558 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\menuclientes.h
+
+1730931065 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\menuventas.h
+
+1730929874 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasepersonaarchi.h
+
+1730171304 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasecliente.h
+
+1730904506 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasevendedor.h
+
+1730749381 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\claseventas.h
+
+1730141555 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasedetalleventa.h
+
+1730931702 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasepelicula.h
+
+1730935287 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasepeliculaarchi.h
+
+1730904779 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\funcionesglobales.h
+
+1730930562 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\claseventasarchi.h
+
+1730916645 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\menuconfiguracion.h
+
+1730914530 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\menureportes.h
+
+1730906382 c:\users\rtech\desktop\world\utn\materias [cursando]\prog ii\cuevita\clasevendedorarchi.h
+
+1730919640 source:c:\users\rtech\desktop\cuevita\main.cpp
+	<iostream>
+	<string.h>
+	"FuncionesGlobales.h"
+	"ClaseFecha.h"
+	"ClasePelicula.h"
+	"ClasePersona.h"
+	"ClaseCliente.h"
+	"ClaseVendedor.h"
+	"ClaseVentas.h"
+	"ClasePersonaArchi.h"
+	"ClasePeliculaArchi.h"
+	"ClaseVentasArchi.h"
+	"ClaseVendedorArchi.h"
+	"MenuPeliculas.h"
+	"MenuClientes.h"
+	"MenuVentas.h"
+	"MenuConfiguracion.h"
+	"MenuReportes.h"
+
+1730904779 c:\users\rtech\desktop\cuevita\funcionesglobales.h
+
+1730165193 c:\users\rtech\desktop\cuevita\clasefecha.h
+
+1730931702 c:\users\rtech\desktop\cuevita\clasepelicula.h
+
+1730914630 c:\users\rtech\desktop\cuevita\clasepersona.h
+
+1730941658 c:\users\rtech\desktop\cuevita\clasecliente.h
+
+1730904506 c:\users\rtech\desktop\cuevita\clasevendedor.h
+
+1730749381 c:\users\rtech\desktop\cuevita\claseventas.h
+
+1730942559 c:\users\rtech\desktop\cuevita\clasepersonaarchi.h
+
+1730940308 c:\users\rtech\desktop\cuevita\clasepeliculaarchi.h
+
+1730930562 c:\users\rtech\desktop\cuevita\claseventasarchi.h
+
+1730906382 c:\users\rtech\desktop\cuevita\clasevendedorarchi.h
+
+1730937563 c:\users\rtech\desktop\cuevita\menupeliculas.h
+
+1730921558 c:\users\rtech\desktop\cuevita\menuclientes.h
+
+1730931065 c:\users\rtech\desktop\cuevita\menuventas.h
+
+1730916645 c:\users\rtech\desktop\cuevita\menuconfiguracion.h
+
+1730914530 c:\users\rtech\desktop\cuevita\menureportes.h
+
+1730919640 source:c:\users\rtech\desktop\cuevita\cuevita\main.cpp
+	<iostream>
+	<string.h>
+	"FuncionesGlobales.h"
+	"ClaseFecha.h"
+	"ClasePelicula.h"
+	"ClasePersona.h"
+	"ClaseCliente.h"
+	"ClaseVendedor.h"
+	"ClaseVentas.h"
+	"ClasePersonaArchi.h"
+	"ClasePeliculaArchi.h"
+	"ClaseVentasArchi.h"
+	"ClaseVendedorArchi.h"
+	"MenuPeliculas.h"
+	"MenuClientes.h"
+	"MenuVentas.h"
+	"MenuConfiguracion.h"
+	"MenuReportes.h"
+
+1730904779 c:\users\rtech\desktop\cuevita\cuevita\funcionesglobales.h
+
+1730165193 c:\users\rtech\desktop\cuevita\cuevita\clasefecha.h
+
+1730931702 c:\users\rtech\desktop\cuevita\cuevita\clasepelicula.h
+
+1730914630 c:\users\rtech\desktop\cuevita\cuevita\clasepersona.h
+
+1730941658 c:\users\rtech\desktop\cuevita\cuevita\clasecliente.h
+
+1730904506 c:\users\rtech\desktop\cuevita\cuevita\clasevendedor.h
+
+1730749381 c:\users\rtech\desktop\cuevita\cuevita\claseventas.h
+
+1730943002 c:\users\rtech\desktop\cuevita\cuevita\clasepersonaarchi.h
+
+1730940308 c:\users\rtech\desktop\cuevita\cuevita\clasepeliculaarchi.h
+
+1730944178 c:\users\rtech\desktop\cuevita\cuevita\claseventasarchi.h
+
+1730906382 c:\users\rtech\desktop\cuevita\cuevita\clasevendedorarchi.h
+
+1730937563 c:\users\rtech\desktop\cuevita\cuevita\menupeliculas.h
+
+1730921558 c:\users\rtech\desktop\cuevita\cuevita\menuclientes.h
+
+1730943075 c:\users\rtech\desktop\cuevita\cuevita\menuventas.h
+
+1730916645 c:\users\rtech\desktop\cuevita\cuevita\menuconfiguracion.h
+
+1730944377 c:\users\rtech\desktop\cuevita\cuevita\menureportes.h
+
+1730919640 source:c:\users\blanarik\desktop\cuevita\main.cpp
+	<iostream>
+	<string.h>
+	"FuncionesGlobales.h"
+	"ClaseFecha.h"
+	"ClasePelicula.h"
+	"ClasePersona.h"
+	"ClaseCliente.h"
+	"ClaseVendedor.h"
+	"ClaseVentas.h"
+	"ClasePersonaArchi.h"
+	"ClasePeliculaArchi.h"
+	"ClaseVentasArchi.h"
+	"ClaseVendedorArchi.h"
+	"MenuPeliculas.h"
+	"MenuClientes.h"
+	"MenuVentas.h"
+	"MenuConfiguracion.h"
+	"MenuReportes.h"
+
+1730904779 c:\users\blanarik\desktop\cuevita\funcionesglobales.h
+
+1730165193 c:\users\blanarik\desktop\cuevita\clasefecha.h
+
+1730931702 c:\users\blanarik\desktop\cuevita\clasepelicula.h
+
+1730914630 c:\users\blanarik\desktop\cuevita\clasepersona.h
+
+1730941658 c:\users\blanarik\desktop\cuevita\clasecliente.h
+
+1730904506 c:\users\blanarik\desktop\cuevita\clasevendedor.h
+
+1730749381 c:\users\blanarik\desktop\cuevita\claseventas.h
+
+1733844634 c:\users\blanarik\desktop\cuevita\clasepersonaarchi.h
+
+1733844727 c:\users\blanarik\desktop\cuevita\clasepeliculaarchi.h
+
+1733840980 c:\users\blanarik\desktop\cuevita\claseventasarchi.h
+
+1730906382 c:\users\blanarik\desktop\cuevita\clasevendedorarchi.h
+
+1733844727 c:\users\blanarik\desktop\cuevita\menupeliculas.h
+
+1733844669 c:\users\blanarik\desktop\cuevita\menuclientes.h
+
+1733497544 c:\users\blanarik\desktop\cuevita\menuventas.h
+
+1730916645 c:\users\blanarik\desktop\cuevita\menuconfiguracion.h
+
+1733842129 c:\users\blanarik\desktop\cuevita\menureportes.h
+

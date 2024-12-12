@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Cuevita" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Cuevita" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Cuevita" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ClaseCliente.h" />
+		<Unit filename="ClaseFecha.h" />
+		<Unit filename="ClasePelicula.h" />
+		<Unit filename="ClasePeliculaArchi.h" />
+		<Unit filename="ClasePersona.h" />
+		<Unit filename="ClasePersonaArchi.h" />
+		<Unit filename="ClaseVendedor.h" />
+		<Unit filename="ClaseVendedorArchi.h" />
+		<Unit filename="ClaseVentas.h" />
+		<Unit filename="ClaseVentasArchi.h" />
+		<Unit filename="FuncionesGlobales.h" />
+		<Unit filename="MenuClientes.h" />
+		<Unit filename="MenuConfiguracion.h" />
+		<Unit filename="MenuPeliculas.h" />
+		<Unit filename="MenuReportes.h" />
+		<Unit filename="MenuVentas.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
